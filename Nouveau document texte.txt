@@ -1,0 +1,22 @@
+As a visitor i need to :
+-register
+-Add categorie
+AS a user i need to :
+-login 
+-choose categories
+-order product
+-buy product 
+-add to Fav
+-delete my order
+-send a feedback
+AS an Admine i can :
+-login
+-delete user
+-delete product
+-update product 
+-update categories
+-ban user 
+-answer user
+-Add user 
+-sell product
+
